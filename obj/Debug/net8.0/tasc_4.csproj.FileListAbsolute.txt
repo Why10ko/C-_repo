@@ -12,3 +12,4 @@ C:\Users\User PC\Desktop\семинар_1\tasc_4\obj\Debug\net8.0\refint\tasc_4.
 C:\Users\User PC\Desktop\семинар_1\tasc_4\obj\Debug\net8.0\tasc_4.pdb
 C:\Users\User PC\Desktop\семинар_1\tasc_4\obj\Debug\net8.0\tasc_4.genruntimeconfig.cache
 C:\Users\User PC\Desktop\семинар_1\tasc_4\obj\Debug\net8.0\ref\tasc_4.dll
+C:\Users\User PC\Desktop\семинар_1\tasc_4\obj\Debug\net8.0\tasc_4.sourcelink.json
